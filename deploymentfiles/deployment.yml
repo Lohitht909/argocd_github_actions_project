@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: webcont
-          image: lohith0720/argocd:12
+          image: lohith0720/argocd:1
 
           ports:
             - containerPort: 8080
